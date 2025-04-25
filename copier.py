@@ -4,7 +4,7 @@ import uuid
 import os
 
 # オリジナルのファイル
-original_file = "original_script.py"
+original_file = "copier.py"
 
 # ランダムなファイル名生成（UUIDを使用）
 while True:
