@@ -1,4 +1,3 @@
-```markdown
 # Files-that-should-not-be-executed
 
 このリポジトリには、2つのPythonスクリプトが含まれています。それぞれ特定の目的を果たすように設計されています：
